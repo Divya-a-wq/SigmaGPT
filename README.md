@@ -195,7 +195,7 @@ Response to User
 **Divya Nishad**
 
 GitHub:
-https://github.com/Divya-a-wq
+[https://github.com/Divya-a-wq](https://github.com/Divya-a-wq/SigmaGPT)
 
 ## ⭐ Support
 
